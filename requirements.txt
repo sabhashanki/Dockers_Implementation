@@ -52,7 +52,7 @@ packaging==21.3
 pandas==1.4.4
 parso==0.8.3
 pickleshare==0.7.5
-pip==22.2.2
+pip==22.3
 platformdirs==2.5.2
 preshed==3.0.7
 prettytable==0.7.2
